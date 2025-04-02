@@ -5,5 +5,5 @@ This repository contains a Simulink model of a discrete closed-loop speed contro
 Features:
 - Desired velocity calculated based on road grade and payload
 - Desired velocity adjusted based on proximity to other haul truck (adaptive cruise control)
-- Discrete PID controller for closed-loop control.
+- Discrete PID controller for closed-loop velocity control.
 - Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing within Simulink.
